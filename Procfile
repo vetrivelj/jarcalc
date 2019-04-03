@@ -1,1 +1,1 @@
-web: java -jar encrypt.jar
+worker: java -jar encrypt.jar
