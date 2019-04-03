@@ -1,1 +1,1 @@
-worker: java -jar CustomerV2.jar
+java -jar CustomerV2.jar
