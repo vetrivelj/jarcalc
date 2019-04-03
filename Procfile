@@ -1,1 +1,1 @@
-web: java -jar "calc.jar"
+java -jar calc.jar
