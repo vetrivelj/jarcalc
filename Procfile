@@ -1,1 +1,1 @@
-web: java -jar calc.jar
+worker: java -jar calc.jar
