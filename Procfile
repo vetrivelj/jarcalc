@@ -1,1 +1,1 @@
-web:    java $JAVA_TOOL_OPTIONS -jar encrypt.jar --port $PORT *.war
+web:    java $JAVA_OPTS -jar target/dependency/webapp-runner.jar --port $PORT target/*.war
