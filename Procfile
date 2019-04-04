@@ -1,1 +1,1 @@
-web: java $JAVA_OPTS -jar encrypt.jar --port $PORT target/*.jar
+web: java $JAVA_OPTS -jar encrypt.jar --port $PORT *.jar
