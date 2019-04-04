@@ -5,7 +5,7 @@ xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xs
 <groupId>com</groupId>
 <artifactId>CustomerV2</artifactId>
 <version>2</version>
-<packaging>jar</packaging>
+<packaging>war</packaging>
 
 <name>Maven Quick Start Archetype</name>
 <url>http://maven.apache.org</url>
