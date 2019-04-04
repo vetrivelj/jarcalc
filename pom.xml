@@ -3,9 +3,9 @@ xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xs
 <modelVersion>4.0.0</modelVersion>
 
 <groupId>com.mycompany.app</groupId>
-<artifactId>my-app</artifactId>
-<version>1.0-SNAPSHOT</version>
-<packaging>war</packaging>
+<artifactId>CustomerV2</artifactId>
+<version></version>
+<packaging>jar</packaging>
 
 <name>Maven Quick Start Archetype</name>
 <url>http://maven.apache.org</url>
