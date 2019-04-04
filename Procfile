@@ -1,3 +1,1 @@
-unset JAVA_TOOL_OPTIONS
-export DISPLAY:0.0
-web: java -jar encrypt.jar
+web:    java $JAVA_OPTS -jar encrypt.jar --port $PORT *.jar
